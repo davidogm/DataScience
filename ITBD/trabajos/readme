@@ -1,2 +1,23 @@
 # ITBD
-Trabajos realizados en la asignatura
+Trabajos realizados en la asignatura en cursos anteriores 
+
+Estudio de datos historicos de la Formula 1
+  Ficheros de datos que usa:
+    circuits              = pd.read_csv("./datasets/circuits.csv")
+    constructor_results   = pd.read_csv("./datasets/constructor_results.csv")
+    constructor_standings = pd.read_csv("./datasets/constructor_standings.csv")
+    constructors          = pd.read_csv("./datasets/constructors.csv")
+    driver_standings      = pd.read_csv("./datasets/driver_standings.csv")
+    lap_times             = pd.read_csv("./datasets/lap_times.csv")
+    races                 = pd.read_csv("./datasets/races.csv")
+    seasons               = pd.read_csv("./datasets/seasons.csv")
+    drivers               = pd.read_csv("./datasets/drivers.csv")
+    status                = pd.read_csv("./datasets/status.csv")
+    results               = pd.read_csv("./datasets/results.csv")
+    ...
+
+Ejemplo de taxis en NY, NYCTF.ipynb
+  Ficheros de datos que usa: NYCTaxiFares.csv, census_block_loc.csv
+
+Ejemplo de ajedrez, Ajedrez.ipynb
+  Ficheros de datos que usa: games.csv
