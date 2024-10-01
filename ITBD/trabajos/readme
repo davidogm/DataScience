@@ -21,3 +21,6 @@ Ejemplo de taxis en NY, NYCTF.ipynb
 
 Ejemplo de ajedrez, Ajedrez.ipynb
   Ficheros de datos que usa: games.csv
+
+Ejemplo de ajedrez, NetflixDataset.ipynb
+  Ficheros de datos que usa: netflix_titles.csv.zip
